@@ -15,8 +15,7 @@ public class ForGitHubMain {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        class2 c = new class2();
-        c.m();
+        System.out.println("main");
     }
     
 }
